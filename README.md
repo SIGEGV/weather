@@ -7,8 +7,11 @@ Python 3.6+
 The requests library
 The tkinter  library
 Installation
-To install the requirements, run the following command in your terminal:
+To install the requirements,
+run the following command in your terminal:
+
 pip install tk
+
 pip install requests
 
 Usage
